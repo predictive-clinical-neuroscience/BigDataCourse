@@ -15,7 +15,7 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 ### Practicals
 
-**Practical 1:** 
+**Practical 1: Introduction to data handling and human big data** 
 
 [Jupyter Notebook](practicals/PCA_practical.ipynb)
 
