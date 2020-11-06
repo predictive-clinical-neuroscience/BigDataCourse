@@ -3,7 +3,7 @@ Practical exercises and other material for big data course
 
 ### Python basics
 
-Other helpful links if you are new to using python and pandas which we will be using for a lot of our code. 
+Other helpful links if you are new to using python and the pandas library, which we will be using for a lot of our code. 
 1. [LearnPython.org](https://www.learnpython.org/). An online tutorial which is a good way to get running quickly
 2. [The Hitchhikers guide to python](https://docs.python-guide.org/intro/learning/). Lots of detailed resources for learning python
 2. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
