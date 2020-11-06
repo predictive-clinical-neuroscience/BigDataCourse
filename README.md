@@ -13,7 +13,10 @@ Other helpful links if you are new to using python and pandas which we will be u
 
 Since we are running on google colab, there is a great intro to Pandas Colab notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb)
 
-### Practical on PCA
+### Practicals
+
+**Practical 1:** 
+
 [Jupyter Notebook](practicals/PCA_practical.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/PCA_practical.ipynb)
