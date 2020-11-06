@@ -1,6 +1,11 @@
 # BigDataCourse
 Practical exercises and other material for big data course
 
+### Python basics
+Some references for learning python:
+[LearnPython](https://www.learnpython.org/)
+
+
 ### Practical on PCA
 [Jupyter Notebook](practicals/PCA_practical.ipynb)
 
