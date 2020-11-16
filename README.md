@@ -25,7 +25,7 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 ### Practicals
 
-**Practical 1: Introduction to data handling and human big data** 
+**Practical 1: The GLM and PCA** 
 
 [Jupyter Notebook](practicals/GLM_PCA_practical.ipynb)
 
