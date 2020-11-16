@@ -17,6 +17,6 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 **Practical 1: Introduction to data handling and human big data** 
 
-[Jupyter Notebook](practicals/PCA_practical.ipynb)
+[Jupyter Notebook](practicals/GLM_PCA_practical.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/PCA_practical.ipynb)
