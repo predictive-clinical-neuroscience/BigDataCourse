@@ -3,7 +3,7 @@ Practical exercises and other material for big data course
 
 ### Python basics
 
-Other helpful links if you are new to using python and the pandas library, which we will be using for a lot of our code. 
+Other helpful links if you are new to using python and the pandas library, which we will be using for a lot of our code.
 1. [LearnPython.org](https://www.learnpython.org/). An online tutorial which is a good way to get running quickly
 2. [The Hitchhikers guide to python](https://docs.python-guide.org/intro/learning/). Lots of detailed resources for learning python
 2. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
@@ -16,7 +16,7 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 ### Demos
 
-**Demo 1: Data handling with python and pandas** 
+**Demo 1: Data handling with python and pandas**
 
 [Jupyter Notebook](demos/Pandas_demo.ipynb)
 
@@ -25,8 +25,14 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 ### Practicals
 
-**Practical 1: The GLM and PCA** 
+**Practical 1: The GLM and PCA**
 
 [Jupyter Notebook](practicals/GLM_PCA_practical.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/GLM_PCA_practical.ipynb)
+
+**Practical 2: Allen Institute Software Development Kit**
+
+[Jupyter Notebook](practicals/Big_data_mouse_practical_2020.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/Big_data_mouse_practical_2020.ipynb)
