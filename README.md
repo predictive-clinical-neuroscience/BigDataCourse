@@ -13,10 +13,20 @@ Other helpful links if you are new to using python and the pandas library, which
 
 Since we are running on google colab, there is a great intro to Pandas Colab notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb)
 
+
+### Demos
+
+**Demo 1: Data handling with python and pandas** 
+
+[Jupyter Notebook](demos/Pandas_demo.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/demos/Pandas_demo.ipynb)
+
+
 ### Practicals
 
 **Practical 1: Introduction to data handling and human big data** 
 
 [Jupyter Notebook](practicals/GLM_PCA_practical.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/PCA_practical.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/GLM_PCA_practical.ipynb)
