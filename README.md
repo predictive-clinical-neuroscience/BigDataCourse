@@ -29,7 +29,7 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 [Jupyter Notebook](practicals/GLM_PCA_practical.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/GLM_PCA_practical.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/Big_data_GLM_PCA_practical.ipynb)
 
 **Practical 2: Allen Institute Software Development Kit**
 
