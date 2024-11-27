@@ -22,9 +22,6 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/demos/Pandas_demo.ipynb)
 
-Mouse connectivity demo   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/demos/mouse_connectivity_demo.ipynb)
-
 ### Practicals
 
 **Practical 1: The GLM and PCA**
@@ -35,6 +32,6 @@ Mouse connectivity demo
 
 **Practical 2: Allen Institute Software Development Kit**
 
-[Jupyter Notebook](practicals/Big_data_mouse_practical_2020.ipynb)
+[Jupyter Notebook](practicals/Big_data_mouse_practical_2024.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/Big_data_mouse_practical_2020.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/practicals/Big_data_mouse_practical_2024.ipynb)
