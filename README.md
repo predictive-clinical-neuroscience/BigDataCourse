@@ -22,6 +22,13 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/demos/Pandas_demo.ipynb)
 
+**Demo 2: Quality control**
+
+[Jupyter Notebook](demos/QC_demo.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/demos/QC_demo.ipynb)
+
+
 ### Practicals
 
 **Practical 1: Mouse data manipulation using python**
