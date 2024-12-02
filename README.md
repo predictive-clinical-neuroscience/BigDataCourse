@@ -28,11 +28,6 @@ Since we are running on google colab, there is a great intro to Pandas Colab not
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/demos/QC_demo.ipynb)
 
-**Demo 3: Animal big data**
-
-[Jupyter Notebook](demos/mouse_connectivity_demo.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/predictive-clinical-neuroscience/BigDataCourse/blob/main/demos/mouse_connectivity_demo.ipynb)
 
 ### Practicals
 
